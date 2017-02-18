@@ -15,5 +15,6 @@ Last update: 2017-02-18
 ## Required Software:
 
 * MATLAB (7.5 or higher)
-* The COBRA toolbox (https://github.com/opencobra/cobratoolbox) for MATLAB or RAVEN 1.9+ (> commit 662acfe0c282426ba43788c323ce21e80575229f)
+* The COBRA toolbox (https://github.com/opencobra/cobratoolbox) for MATLAB or RAVEN 1.9+ after commit 662acfe.
+
 ========================
