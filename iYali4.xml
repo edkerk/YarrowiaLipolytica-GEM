@@ -128,7 +128,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m10_cy" id="M_m10_cy" name="H+" compartment="cy" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m10_cy" id="M_m10_cy" name="H+" compartment="cy" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m10_cy">
@@ -227,7 +227,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m19_vm" id="M_m19_vm" name="H+" compartment="vm" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m19_vm" id="M_m19_vm" name="H+" compartment="vm" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m19_vm">
@@ -282,7 +282,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m24_en" id="M_m24_en" name="H+" compartment="en" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m24_en" id="M_m24_en" name="H+" compartment="en" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m24_en">
@@ -326,7 +326,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m28_mi" id="M_m28_mi" name="H+" compartment="mi" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m28_mi" id="M_m28_mi" name="H+" compartment="mi" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m28_mi">
@@ -1144,7 +1144,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m102_er" id="M_m102_er" name="H+" compartment="er" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m102_er" id="M_m102_er" name="H+" compartment="er" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m102_er">
@@ -1320,7 +1320,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m118_pe" id="M_m118_pe" name="H+" compartment="pe" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m118_pe" id="M_m118_pe" name="H+" compartment="pe" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m118_pe">
@@ -3249,7 +3249,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m293_go" id="M_m293_go" name="H+" compartment="go" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m293_go" id="M_m293_go" name="H+" compartment="go" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m293_go">
@@ -3788,7 +3788,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m342_ex" id="M_m342_ex" name="H+" compartment="ex" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m342_ex" id="M_m342_ex" name="H+" compartment="ex" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m342_ex">
@@ -4177,7 +4177,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m377_em" id="M_m377_em" name="H+" compartment="em" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m377_em" id="M_m377_em" name="H+" compartment="em" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m377_em">
@@ -4234,7 +4234,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m382_mm" id="M_m382_mm" name="H+" compartment="mm" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m382_mm" id="M_m382_mm" name="H+" compartment="mm" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m382_mm">
@@ -6939,7 +6939,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m627_nu" id="M_m627_nu" name="H+" compartment="nu" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m627_nu" id="M_m627_nu" name="H+" compartment="nu" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m627_nu">
@@ -9623,7 +9623,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m871_gm" id="M_m871_gm" name="H+" compartment="gm" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m871_gm" id="M_m871_gm" name="H+" compartment="gm" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m871_gm">
@@ -11119,7 +11119,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m1007_va" id="M_m1007_va" name="H+" compartment="va" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m1007_va" id="M_m1007_va" name="H+" compartment="va" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m1007_va">
@@ -12131,7 +12131,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m1099_ex" id="M_m1099_ex" name="potassium" compartment="ex" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="K.H">
+      <species metaid="M_m1099_ex" id="M_m1099_ex" name="potassium" compartment="ex" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="KH">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m1099_ex">
@@ -12142,7 +12142,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m1100_cy" id="M_m1100_cy" name="potassium" compartment="cy" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="K.H">
+      <species metaid="M_m1100_cy" id="M_m1100_cy" name="potassium" compartment="cy" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="KH">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m1100_cy">
@@ -12219,7 +12219,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m1107_cy" id="M_m1107_cy" name="sodium" compartment="cy" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="Na.H">
+      <species metaid="M_m1107_cy" id="M_m1107_cy" name="sodium" compartment="cy" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="NaH">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m1107_cy">
@@ -12230,7 +12230,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m1108_ex" id="M_m1108_ex" name="sodium" compartment="ex" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="Na.H">
+      <species metaid="M_m1108_ex" id="M_m1108_ex" name="sodium" compartment="ex" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="NaH">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m1108_ex">
@@ -13024,7 +13024,7 @@
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="M_m1249_lp" id="M_m1249_lp" name="H+" compartment="lp" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="p+1">
+      <species metaid="M_m1249_lp" id="M_m1249_lp" name="H+" compartment="lp" initialAmount="1" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0" fbc:chemicalFormula="H">
         <annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#M_m1249_lp">
@@ -18599,10 +18599,13 @@
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="gene1">
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="g3"/>
             <fbc:and>
+              <fbc:geneProductRef fbc:geneProduct="g3"/>
               <fbc:geneProductRef fbc:geneProduct="g1"/>
+            </fbc:and>
+            <fbc:and>
               <fbc:geneProductRef fbc:geneProduct="g2"/>
+              <fbc:geneProductRef fbc:geneProduct="g1"/>
             </fbc:and>
           </fbc:or>
         </fbc:geneProductAssociation>
@@ -18623,10 +18626,16 @@
           <speciesReference species="M_m6_mi" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="gene2">
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="g2"/>
-            <fbc:geneProductRef fbc:geneProduct="g1"/>
-          </fbc:and>
+          <fbc:or>
+            <fbc:and>
+              <fbc:geneProductRef fbc:geneProduct="g3"/>
+              <fbc:geneProductRef fbc:geneProduct="g1"/>
+            </fbc:and>
+            <fbc:and>
+              <fbc:geneProductRef fbc:geneProduct="g2"/>
+              <fbc:geneProductRef fbc:geneProduct="g1"/>
+            </fbc:and>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction id="R_4" name="(S)-lactate:ferricytochrome-c 2-oxidoreductase" reversible="false" fast="false" fbc:lowerFluxBound="FB3N0" fbc:upperFluxBound="FB4N1000">
@@ -18646,7 +18655,7 @@
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="gene3">
           <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="g2"/>
+            <fbc:geneProductRef fbc:geneProduct="g902"/>
             <fbc:geneProductRef fbc:geneProduct="g1"/>
           </fbc:and>
         </fbc:geneProductAssociation>
@@ -21497,8 +21506,8 @@
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="gene143">
           <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="g147"/>
             <fbc:geneProductRef fbc:geneProduct="g148"/>
+            <fbc:geneProductRef fbc:geneProduct="g147"/>
             <fbc:geneProductRef fbc:geneProduct="g149"/>
           </fbc:and>
         </fbc:geneProductAssociation>
@@ -22084,25 +22093,22 @@
           <speciesReference species="M_m46_mi" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="gene171">
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="g187"/>
-            <fbc:and>
-              <fbc:geneProductRef fbc:geneProduct="g173"/>
-              <fbc:geneProductRef fbc:geneProduct="g174"/>
-              <fbc:geneProductRef fbc:geneProduct="g175"/>
-              <fbc:geneProductRef fbc:geneProduct="g176"/>
-              <fbc:geneProductRef fbc:geneProduct="g177"/>
-              <fbc:geneProductRef fbc:geneProduct="g178"/>
-              <fbc:geneProductRef fbc:geneProduct="g179"/>
-              <fbc:geneProductRef fbc:geneProduct="g180"/>
-              <fbc:geneProductRef fbc:geneProduct="g181"/>
-              <fbc:geneProductRef fbc:geneProduct="g182"/>
-              <fbc:geneProductRef fbc:geneProduct="g183"/>
-              <fbc:geneProductRef fbc:geneProduct="g184"/>
-              <fbc:geneProductRef fbc:geneProduct="g185"/>
-              <fbc:geneProductRef fbc:geneProduct="g186"/>
-            </fbc:and>
-          </fbc:or>
+          <fbc:and>
+            <fbc:geneProductRef fbc:geneProduct="g173"/>
+            <fbc:geneProductRef fbc:geneProduct="g174"/>
+            <fbc:geneProductRef fbc:geneProduct="g175"/>
+            <fbc:geneProductRef fbc:geneProduct="g176"/>
+            <fbc:geneProductRef fbc:geneProduct="g177"/>
+            <fbc:geneProductRef fbc:geneProduct="g178"/>
+            <fbc:geneProductRef fbc:geneProduct="g179"/>
+            <fbc:geneProductRef fbc:geneProduct="g180"/>
+            <fbc:geneProductRef fbc:geneProduct="g181"/>
+            <fbc:geneProductRef fbc:geneProduct="g182"/>
+            <fbc:geneProductRef fbc:geneProduct="g183"/>
+            <fbc:geneProductRef fbc:geneProduct="g184"/>
+            <fbc:geneProductRef fbc:geneProduct="g185"/>
+            <fbc:geneProductRef fbc:geneProduct="g186"/>
+          </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction id="R_227" name="ATPase, cytosolic" reversible="false" fast="false" fbc:lowerFluxBound="FB3N0" fbc:upperFluxBound="FB4N1000">
@@ -25616,9 +25622,12 @@
         </listOfProducts>
         <fbc:geneProductAssociation fbc:id="gene339">
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="g343"/>
             <fbc:and>
               <fbc:geneProductRef fbc:geneProduct="g344"/>
+              <fbc:geneProductRef fbc:geneProduct="g345"/>
+            </fbc:and>
+            <fbc:and>
+              <fbc:geneProductRef fbc:geneProduct="g343"/>
               <fbc:geneProductRef fbc:geneProduct="g345"/>
             </fbc:and>
           </fbc:or>
@@ -56122,6 +56131,7 @@
       <fbc:geneProduct fbc:id="g899" fbc:label="YALI0D23815g"/>
       <fbc:geneProduct fbc:id="g900" fbc:label="YALI0F05038g"/>
       <fbc:geneProduct fbc:id="g901" fbc:label="YALI0F23749g"/>
+      <fbc:geneProduct fbc:id="g902" fbc:label="YALI0E21307g"/>
     </fbc:listOfGeneProducts>
   </model>
 </sbml>
