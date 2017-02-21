@@ -1,5 +1,5 @@
 Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Objective
-1	(R)-lactate:ferricytochrome-c 2-oxidoreductase	m1[cy] + 2 m2[mi]  -> 2 m3[mi] + m4[cy] 	(YALI0D09273g and YALI0E03212g) or (YALI0C06446g)	0	  0.00	1000.00	  0.00
+1	(R)-lactate:ferricytochrome-c 2-oxidoreductase	m1[cy] + 2 m2[mi]  -> 2 m3[mi] + m4[cy] 	(YALI0C06446g) or (YALI0D09273g and YALI0E03212g)	0	  0.00	1000.00	  0.00
 2	(R)-lactate:ferricytochrome-c 2-oxidoreductase	2 m2[mi] + m5[mi]  -> 2 m3[mi] + m6[mi] 	(YALI0E03212g and YALI0D09273g)	0	  0.00	1000.00	  0.00
 4	(S)-lactate:ferricytochrome-c 2-oxidoreductase	2 m2[mi] + m7[cy]  -> 2 m3[mi] + m4[cy] 	(YALI0E03212g and YALI0D09273g)	0	  0.00	1000.00	  0.00
 5	1,3-beta-glucan synthase	m8[cy]  -> m9[en] + m10[cy] + m11[cy] 	(YALI0C01411g) or (YALI0E21021g)	0	  0.00	1000.00	  0.00
@@ -169,7 +169,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 223	ATP adenylyltransferase	m10[cy] + m143[cy] + m266[cy]  -> m35[cy] + m339[cy] 	(YALI0F30349g)	0	  0.00	1000.00	  0.00
 224	ATP adenylyltransferase	m10[cy] + m266[cy] + m268[cy]  -> m35[cy] + m340[cy] 	(YALI0F30349g)	0	  0.00	1000.00	  0.00
 225	ATP phosphoribosyltransferase	m141[cy] + m253[cy]  -> m203[cy] + m341[cy] 	(YALI0C05170g)	0	  0.00	1000.00	  0.00
-226	ATP synthase	3 m10[cy] + m58[mi] + m197[mi]  -> m26[mi] + 2 m28[mi] + m46[mi] 	(NP_075432 and NP_075433 and NP_075437 and YALI0F03179g and YALI0F02893g and YALI0D22022g and YALI0D12584g and YALI0D11814g and YALI0B06831g and YALI0F04774g and YALI0B03982g and YALI0D17490g and YALI0F20306g and YALI0E32164g) or (YALI0B21527g)	0	  0.00	1000.00	  0.00
+226	ATP synthase	3 m10[cy] + m58[mi] + m197[mi]  -> m26[mi] + 2 m28[mi] + m46[mi] 	(YALI0B21527g) or (NP_075432 and NP_075433 and NP_075437 and YALI0F03179g and YALI0F02893g and YALI0D22022g and YALI0D12584g and YALI0D11814g and YALI0B06831g and YALI0F04774g and YALI0B03982g and YALI0D17490g and YALI0F20306g and YALI0E32164g)	0	  0.00	1000.00	  0.00
 227	ATPase, cytosolic	m32[cy] + m141[cy]  -> m35[cy] + m143[cy] + m342[ex] 	(YALI0B22066g)	0	  0.00	1000.00	  0.00
 228	beta-1,4 mannosyltransferase	m343[cy] + m344[cy]  -> m268[cy] + m345[cy] 	(YALI0E34133g)	0	  0.00	1000.00	  0.00
 229	biotin synthase	m346[cy] + m347[cy]  <=> 2 m10[cy] + m348[cy] 	(YALI0D15400g)	1	-1000.00	1000.00	  0.00
@@ -401,7 +401,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 548	homoserine kinase	m141[cy] + m630[cy]  -> m10[cy] + m143[cy] + m631[cy] 	(YALI0F13453g)	0	  0.00	1000.00	  0.00
 549	homoserine O-trans-acetylase	m68[cy] + m630[cy]  -> m69[cy] + m444[cy] 	(YALI0E00836g)	0	  0.00	1000.00	  0.00
 550	hydrogen peroxide reductase (thioredoxin)	m301[cy] + m632[cy]  -> 2 m32[cy] + m633[cy] 	(YALI0B15125g and YALI0F01496g)	0	  0.00	1000.00	  0.00
-551	hydrogen peroxide reductase (thioredoxin)	m526[mi] + m634[mi]  -> 2 m26[mi] + m635[mi] 	(YALI0F08195g and YALI0F01496g) or (YALI0E23540g)	0	  0.00	1000.00	  0.00
+551	hydrogen peroxide reductase (thioredoxin)	m526[mi] + m634[mi]  -> 2 m26[mi] + m635[mi] 	(YALI0E23540g) or (YALI0F08195g and YALI0F01496g)	0	  0.00	1000.00	  0.00
 552	hydrogen peroxide reductase (thioredoxin)	m222[pe] + m636[pe]  -> 2 m375[pe] + m637[pe] 	(YALI0E25091g and YALI0F01496g)	0	  0.00	1000.00	  0.00
 553	hydroxyacylglutathione hydrolase	m32[cy] + m638[cy]  -> m1[cy] + m10[cy] + m530[cy] 	(YALI0D06974g)	0	  0.00	1000.00	  0.00
 554	hydroxyacylglutathione hydrolase	m26[mi] + m639[mi]  -> m5[mi] + m28[mi] + m561[mi] 	(YALI0D06974g)	0	  0.00	1000.00	  0.00
@@ -571,7 +571,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 770	NADH dehydrogenase, cytosolic/mitochondrial	m10[cy] + m123[cy] + m468[mi]  -> m122[cy] + m471[mi] 	(YALI0F25135g)	0	  0.00	1000.00	  0.00
 771	NADH kinase	m123[cy] + m141[cy]  -> m10[cy] + m40[cy] + m143[cy] 	(YALI0E23991g) or (YALI0E27874g)	0	  0.00	1000.00	  0.00
 772	NADH kinase mitochondrial	m30[mi] + m46[mi]  -> m28[mi] + m176[mi] + m197[mi] 	(YALI0E23991g) or (YALI0E27874g) or (YALI0E17963g)	0	  0.00	1000.00	  0.00
-773	NADH:ubiquinone oxidoreductase	m28[mi] + m30[mi] + m468[mi]  -> m27[mi] + m471[mi] 	(YALI0F25135g)	0	  0.00	  0.00	  0.00
+773	NADH:ubiquinone oxidoreductase	m28[mi] + m30[mi] + m468[mi]  -> m27[mi] + m471[mi] 	(YALI0F25135g)	0	  0.00	1000.00	  0.00
 774	NAPRtase	m10[cy] + m253[cy] + m824[cy]  -> m203[cy] + m825[cy] 	(YALI0B00220g)	0	  0.00	1000.00	  0.00
 775	NAPRtase	m28[mi] + m826[mi] + m827[mi]  -> m204[mi] + m828[mi] 	(YALI0B00220g)	0	  0.00	1000.00	  0.00
 781	nicotinamidase	m32[cy] + m829[cy]  -> m38[cy] + m824[cy] 	(YALI0A21153g)	0	  0.00	1000.00	  0.00
@@ -1981,7 +1981,6 @@ yli0049	3-methylglutaconyl-CoA dehydratase	m26[mi] + m1832[mi]  -> m648[mi] 		0	
 yli0050	hydroxymethylglutaryl-CoA lyase	m648[mi]  -> m71[mi] + m1812[mi] 	(YALI0B22550g)	0	  0.00	1000.00	  0.00
 yli0051	2-oxoadipate dehydrogenase	m27[mi] + m73[mi] + m629[mi]  -> m30[mi] + m44[mi] + m1833[mi] 	(YALI0F23749g)	0	  0.00	1000.00	  0.00
 yli0052	glutaryl-CoA dehydrogenase	m563[mi] + m1833[mi]  -> m44[mi] + m566[mi] + m1834[mi] 	(YALI0E33517g and YALI0E16929g and YALI0D20768g)	0	  0.00	1000.00	  0.00
-yli0053	FAD:ubiquinone oxidoreductase	m468[mi] + m566[mi]  -> m471[mi] + m563[mi] 	(YALI0F23749g)	0	  0.00	1000.00	  0.00
 yli0054	crotonyl-CoA hydratase	m26[mi] + m1834[mi]  <=> m1835[mi] 	(YALI0B10406g)	1	-1000.00	1000.00	  0.00
 yli0055	(S)-3-Hydroxybutanoyl-CoA oxidoreductase	m27[mi] + m1835[mi]  -> m28[mi] + m30[mi] + m190[mi] 	(YALI0C08811g)	0	  0.00	1000.00	  0.00
 Metabolite name	Metabolite description	Metabolite formula
