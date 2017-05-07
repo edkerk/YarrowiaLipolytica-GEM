@@ -24,7 +24,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 26	2-keto-4-methylthiobutyrate transamination	m33[cy] + m50[cy]  -> m51[cy] + m74[cy] 		0	  0.00	1000.00	  0.00
 27	2-methylcitrate dehydratase	m75[mi]  <=> m26[mi] + m76[mi] 	(YALI0E02728g)	1	-1000.00	1000.00	  0.00
 28	2-methylcitrate synthase	m26[mi] + m77[mi] + m78[mi]  -> m28[mi] + m73[mi] + m79[mi] 	(YALI0E00638g) or (YALI0E02684g)	0	  0.00	1000.00	  0.00
-29	2-oxo-4-methyl-3-carboxypentanoate decarboxylation	m10[cy] + m80[cy]  -> m81[cy] + m82[cy] 	(YALI0D01265g)	0	  0.00	  0.00	  0.00
+29	2-oxo-4-methyl-3-carboxypentanoate decarboxylation	m10[cy] + m80[cy]  -> m81[cy] + m82[cy] 	(YALI0F19910g)	0	  0.00	  0.00	  0.00
 30	2-oxo-4-methyl-3-carboxypentanoate decarboxylation	m28[mi] + m83[mi]  -> m44[mi] + m84[mi] 	(YALI0D01265g)	0	  0.00	1000.00	  0.00
 32	3',5'-bisphosphate nucleotidase	m32[cy] + m85[cy]  -> m35[cy] + m86[cy] 	(YALI0F27665g)	0	  0.00	1000.00	  0.00
 33	3',5'-cyclic-nucleotide phosphodiesterase	m32[cy] + m87[cy]  -> m10[cy] + m86[cy] 	(YALI0E32527g) or (YALI0A08041g)	0	  0.00	1000.00	  0.00
@@ -401,7 +401,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 548	homoserine kinase	m141[cy] + m630[cy]  -> m10[cy] + m143[cy] + m631[cy] 	(YALI0F13453g)	0	  0.00	1000.00	  0.00
 549	homoserine O-trans-acetylase	m68[cy] + m630[cy]  -> m69[cy] + m444[cy] 	(YALI0E00836g)	0	  0.00	1000.00	  0.00
 550	hydrogen peroxide reductase (thioredoxin)	m301[cy] + m632[cy]  -> 2 m32[cy] + m633[cy] 	(YALI0B15125g and YALI0F01496g)	0	  0.00	1000.00	  0.00
-551	hydrogen peroxide reductase (thioredoxin)	m526[mi] + m634[mi]  -> 2 m26[mi] + m635[mi] 	(YALI0E23540g) or (YALI0F08195g and YALI0F01496g)	0	  0.00	1000.00	  0.00
+551	hydrogen peroxide reductase (thioredoxin)	m526[mi] + m634[mi]  -> 2 m26[mi] + m635[mi] 	(YALI0F08195g and YALI0F01496g) or (YALI0E23540g)	0	  0.00	1000.00	  0.00
 552	hydrogen peroxide reductase (thioredoxin)	m222[pe] + m636[pe]  -> 2 m375[pe] + m637[pe] 	(YALI0E25091g and YALI0F01496g)	0	  0.00	1000.00	  0.00
 553	hydroxyacylglutathione hydrolase	m32[cy] + m638[cy]  -> m1[cy] + m10[cy] + m530[cy] 	(YALI0D06974g)	0	  0.00	1000.00	  0.00
 554	hydroxyacylglutathione hydrolase	m26[mi] + m639[mi]  -> m5[mi] + m28[mi] + m561[mi] 	(YALI0D06974g)	0	  0.00	1000.00	  0.00
@@ -489,7 +489,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 659	isocitrate dehydrogenase (NADP)	m41[cy] + m738[cy]  <=> m40[cy] + m51[cy] + m82[cy] 	(YALI0F04095g)	1	-1000.00	1000.00	  0.00
 661	isocitrate dehydrogenase (NADP+), peroxisomal	m739[pe] + m740[pe]  <=> m330[pe] + m741[pe] + m742[pe] 	(YALI0F04095g)	1	-1000.00	1000.00	  0.00
 662	isocitrate lyase	m738[cy]  -> m271[cy] + m541[cy] 	(YALI0C16885g) or (YALI0F31999g)	0	  0.00	1000.00	  0.00
-663	isoleucine transaminase	m51[cy] + m743[cy]  <=> m50[cy] + m744[cy] 	(YALI0D01265g)	1	  0.00	  0.00	  0.00
+663	isoleucine transaminase	m51[cy] + m743[cy]  <=> m50[cy] + m744[cy] 	(YALI0F19910g)	1	  0.00	  0.00	  0.00
 664	isoleucine transaminase	m219[mi] + m745[mi]  <=> m29[mi] + m489[mi] 	(YALI0D01265g)	1	-1000.00	1000.00	  0.00
 665	isoleucyl-tRNA synthetase	m141[cy] + m743[cy] + m746[cy]  -> m86[cy] + m203[cy] + m747[cy] 	(YALI0A00264g)	0	  0.00	1000.00	  0.00
 666	isoleucyl-tRNA synthetase	m46[mi] + m745[mi] + m748[mi]  -> m48[mi] + m204[mi] + m749[mi] 	(YALI0C10780g)	0	  0.00	1000.00	  0.00
@@ -518,7 +518,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 696	lactaldehyde dehydrogenase	m32[cy] + m122[cy] + m766[cy]  -> m7[cy] + 2 m10[cy] + m123[cy] 		0	  0.00	1000.00	  0.00
 697	lactoylglutathione lyase	m302[cy] + m530[cy]  -> m638[cy] 	(YALI0E24057g)	0	  0.00	1000.00	  0.00
 698	lanosterol synthase	m774[cy]  -> m449[cy] 	(YALI0F04378g)	0	  0.00	1000.00	  0.00
-699	leucine transaminase	m51[cy] + m775[cy]  <=> m50[cy] + m81[cy] 	(YALI0D01265g)	1	  0.00	  0.00	  0.00
+699	leucine transaminase	m51[cy] + m775[cy]  <=> m50[cy] + m81[cy] 	(YALI0F19910g)	1	  0.00	  0.00	  0.00
 700	leucine transaminase	m219[mi] + m776[mi]  <=> m29[mi] + m84[mi] 	(YALI0D01265g)	1	-1000.00	1000.00	  0.00
 701	leucyl-tRNA synthetase	m141[cy] + m775[cy] + m777[cy]  -> m86[cy] + m203[cy] + m778[cy] 	(YALI0E24607g)	0	  0.00	1000.00	  0.00
 702	leucyl-tRNA synthetase	m46[mi] + m776[mi] + m779[mi]  -> m48[mi] + m204[mi] + m780[mi] 	(YALI0F02299g)	0	  0.00	1000.00	  0.00
@@ -795,7 +795,7 @@ Rxn name	Rxn description	Formula	Gene-reaction association	Reversible	LB	UB	Obje
 1084	UTP-glucose-1-phosphate uridylyltransferase	m10[cy] + m439[cy] + m589[cy]  <=> m8[cy] + m203[cy] 	(YALI0A02310g)	1	-1000.00	1000.00	  0.00
 1085	V-ATPase, Golgi	m10[cy] + m32[cy] + m141[cy]  -> m35[cy] + m143[cy] + 2 m293[go] 	(YALI0A11143g and YALI0E11355g and YALI0D00583g and YALI0E08617g and YALI0A09900g and YALI0F15631g and YALI0E16192g and YALI0F24475g and YALI0F16181g and YALI0E31471g and YALI0E27346g and YALI0E09933g) or (YALI0F31119g and YALI0F09405g)	0	  0.00	1000.00	  0.00
 1086	V-ATPase, vacuole	m10[cy] + m32[cy] + m141[cy]  -> m35[cy] + m143[cy] + 2 m1007[va] 	(YALI0A11143g and YALI0E11355g and YALI0D00583g and YALI0E08617g and YALI0A09900g and YALI0F15631g and YALI0E16192g and YALI0F24475g and YALI0F16181g and YALI0E31471g and YALI0E27346g and YALI0E09933g) or (YALI0F31119g and YALI0F09405g)	0	  0.00	  0.00	  0.00
-1087	valine transaminase	m51[cy] + m1008[cy]  <=> m50[cy] + m67[cy] 	(YALI0D01265g)	1	  0.00	  0.00	  0.00
+1087	valine transaminase	m51[cy] + m1008[cy]  <=> m50[cy] + m67[cy] 	(YALI0F19910g)	1	  0.00	  0.00	  0.00
 1088	valine transaminase, mitochondiral	m219[mi] + m1009[mi]  <=> m29[mi] + m70[mi] 	(YALI0D01265g)	1	-1000.00	1000.00	  0.00
 1089	valyl-tRNA synthetase	m141[cy] + m1008[cy] + m1010[cy]  -> m86[cy] + m203[cy] + m1011[cy] 	(YALI0F20218g)	0	  0.00	1000.00	  0.00
 1090	valyl-tRNA synthetase	m46[mi] + m1009[mi] + m1012[mi]  -> m48[mi] + m204[mi] + m1013[mi] 	(YALI0F20218g)	0	  0.00	1000.00	  0.00
