@@ -1,12 +1,15 @@
 # Genome-Scale Model of _Y. lipolytica_ W29
 
-This repository contains the current genome-scale metabolic model of _Yarrowia lipolytica_, named iYali4, as initially published in
->Kerkhoven EJ, Pomraning KR, Baker SE, Nielsen J (2016) Regulation of amino-acid metabolism controls flux to lipid accumulation in Yarrowia lipolytica. npj Syst Biol Appl 2:16005. doi: [10.1038/npjsba.2016.5](http://www.nature.com/articles/npjsba20165), but updated since then. The version provided here is FBCv2 compliant.
+This repository contains the current genome-scale metabolic model of _Yarrowia lipolytica_, named iYali4, as initially published in:
+>Kerkhoven EJ, Pomraning KR, Baker SE, Nielsen J (2016) Regulation of amino-acid metabolism controls flux to lipid accumulation in Yarrowia lipolytica. npj Syst Biol Appl 2:16005. doi: [10.1038/npjsba.2016.5](http://www.nature.com/articles/npjsba20165).
+
+
+The model has been receiving various updates. Two versions of the model are available, for use in RAVEN toolbox (SBML L2V3, containing more annotations of metabolites) and COBRA toolbox (SBML L3V1).
 
 
 This repository is administered by Eduard Kerkhoven (@edkerk), Division of Systems and Synthetic Biology, Department of Biology and Biological Engineering, Chalmers University of Technology.
 
-Last update: 2017-07-21
+Last update: 2017-08-24
 
 ## Installation
 
